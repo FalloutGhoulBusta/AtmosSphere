@@ -1,0 +1,16 @@
+{
+  "projectName": "AtmosSphere",
+  "projectOwner": "FalloutGhoulBusta",
+  "repoType": "github.com",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md",
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [],
+  "skipCi": true
+}
