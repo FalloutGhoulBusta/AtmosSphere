@@ -7,7 +7,7 @@ Thank you for your interest in contributing to AtmosSphere! We're excited to hav
 1. **Fork** the repository on GitHub
 2. **Clone** your forked repository
    ```bash
-   git clone https://github.com/your-username/AtmosSphere.git
+   git clone https://github.com/FalloutGhoulBusta/AtmosSphere.git
    cd AtmosSphere
    ```
 3. **Create a new branch** for your feature or bugfix
