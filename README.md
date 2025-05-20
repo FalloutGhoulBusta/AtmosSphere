@@ -7,9 +7,10 @@
   [![GitHub stars](https://img.shields.io/github/stars/FalloutGhoulBusta/AtmosSphere?style=social)](https://github.com/FalloutGhoulBusta/AtmosSphere/stargazers)
   [![GitHub issues](https://img.shields.io/github/issues/FalloutGhoulBusta/AtmosSphere)](https://github.com/FalloutGhoulBusta/AtmosSphere/issues)
   [![GitHub forks](https://img.shields.io/github/forks/FalloutGhoulBusta/AtmosSphere?style=social)](https://github.com/FalloutGhoulBusta/AtmosSphere/network/members)
-  
+  [![GitHub watchers](https://img.shields.io/github/watchers/FalloutGhoulBusta/AtmosSphere?style=social)](https://github.com/FalloutGhoulBusta/AtmosSphere/watchers)
   [![Demo](https://img.shields.io/badge/Live-Demo-2ecc71?style=for-the-badge&logo=github)](https://falloutghoulbusta.github.io/AtmosSphere/)
   [![Contribute](https://img.shields.io/badge/Contribute-2980b9?style=for-the-badge)](CONTRIBUTING.md)
+  [![Follow](https://img.shields.io/badge/Follow-1abc9c?style=for-the-badge&logo=github)](https://github.com/FalloutGhoulBusta) 
 </div>
 
 ## 🌟 About
@@ -93,11 +94,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Font Awesome](https://fontawesome.com/) - For the icons
 
 ## 📬 Contact
+For any questions or feedback, please contact me at [newmanngarry3@gmail.com](mailto:newmanngarry3@gmail.com).
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Project Link: [https://github.com/FalloutGhoulBusta/AtmosSphere](https://github.com/FalloutGhoulBusta/AtmosSphere)
 
-Project Link: [https://github.com/your-username/interactive-weather-map](https://github.com/your-username/interactive-weather-map)
-  - Weather conditions with icons
+- Weather conditions with icons
   - Weather icon from OpenWeatherMap's icon service
   - Updates automatically when map is moved
 
