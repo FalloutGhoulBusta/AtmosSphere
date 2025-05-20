@@ -2,7 +2,7 @@
   <h1>🌤️ AtmosSphere</h1>
   <p>Interactive weather visualization built with Leaflet.js and OpenWeatherMap API</p>
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/FalloutGhoulBusta/AtmosSphere/blob/main/LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/FalloutGhoulBusta/AtmosSphere/blob/main/CONTRIBUTING.md)
   [![GitHub stars](https://img.shields.io/github/stars/FalloutGhoulBusta/AtmosSphere?style=social)](https://github.com/FalloutGhoulBusta/AtmosSphere/stargazers)
   [![GitHub issues](https://img.shields.io/github/issues/FalloutGhoulBusta/AtmosSphere)](https://github.com/FalloutGhoulBusta/AtmosSphere/issues)
