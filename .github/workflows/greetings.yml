@@ -1,0 +1,19 @@
+name: Greetings
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Greet new contributors
+        uses: garg3133/welcome@v3
+        with:
+          issue-message: |
+            👋 Welcome to the repo, @${{ github.actor }}! Thank you for opening your first issue. We appreciate your interest and contributions!
+          pr-message: |
+            🎉 Hi @${{ github.actor }}, thanks for your first pull request! The team will review it soon. We're glad to have you here!
