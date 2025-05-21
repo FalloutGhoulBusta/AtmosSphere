@@ -1,7 +1,11 @@
 ---
-name: 🐛 Bug Report
-description: Report an issue with AtmosSphere
-labels: bug
+name: "\U0001F41B Bug Report"
+about: Report bugs and problems with the project. Use this template to provide details
+  about issues, steps to reproduce, and expected versus actual behavior.
+title: ''
+labels: bug, good first issue
+assignees: FalloutGhoulBusta
+
 ---
 
 ## 🐛 Bug Report

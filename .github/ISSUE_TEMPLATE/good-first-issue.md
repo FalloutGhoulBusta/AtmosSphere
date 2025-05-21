@@ -1,7 +1,10 @@
 ---
-name: 📚 Good First Issue
-description: Good issue for first-time contributors
-labels: 'good first issue'
+name: "\U0001F4DA Good First Issue"
+about: For reporting issues suitable for first-time contributors.
+title: ''
+labels: good first issue
+assignees: FalloutGhoulBusta
+
 ---
 
 ## 📚 Good First Issue

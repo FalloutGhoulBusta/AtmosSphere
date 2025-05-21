@@ -1,7 +1,10 @@
 ---
-name: 💡 Feature Request
-description: Suggest an idea for AtmosSphere
+name: "\U0001F4A1 Feature Request"
+about: Suggest a new feature or enhancement for this project.
+title: ''
 labels: enhancement
+assignees: FalloutGhoulBusta
+
 ---
 
 ## 💡 Feature Request
